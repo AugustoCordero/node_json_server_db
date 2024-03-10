@@ -1,0 +1,110 @@
+{"profesores":
+[
+{
+
+
+    "nombre":"sergi",
+    "apellido":"code",
+    "materias":[
+        {
+            "nombre": "node js desde cero"
+        },
+        {
+            "nombre": "mongo"
+        },
+        {
+            "nombre": "csc"
+        },
+        {
+            "nombre": "html"
+        },
+        {
+            "nombre": "tysprip"
+        },
+        {
+            "nombre": "java"
+        }
+    ]
+
+
+}
+],
+"alumnos":
+[
+    {
+        "nombre": "Maria",
+        "apellido": "Rodriguez",
+        "promedio":8.12
+    },
+    {
+        "nombre": "Blanca",
+        "apellido": "Atiencie",
+        "promedio":9.12
+    },
+    {
+        "nombre": "Maria Cristina",
+        "apellido": "Jara",
+        "promedio":6.12
+    },
+    {
+        "nombre": "Jenifer",
+        "apellido": "lopez",
+        "promedio":5.12
+    },
+    {
+        "nombre": "Juana",
+        "apellido": "Domingez",
+        "promedio":3.12
+    },
+    {
+        "nombre": "carolina",
+        "apellido": "Herrrera",
+        "promedio":9.12
+    },
+    {
+        "nombre": "Maria",
+        "apellido": "Menchaca",
+        "promedio":4.12
+    },
+    {
+        "nombre": "juana",
+        "apellido": "Rodriguez",
+        "promedio":9.12
+    }
+],
+"cursos":[
+    {
+        "nombre":"node js desde cero",
+        "duracion":7,
+        "difucultad": "intermedia"
+    },
+    {
+        "nombre":"java",
+        "duracion":4,
+        "difucultad": "inicial"
+    },
+    {
+        "nombre":"html",
+        "duracion":5,
+        "difucultad": "intermedia"
+    },
+    {
+        "nombre":"csc",
+        "duracion":8,
+        "difucultad": "intermedia"
+    },{
+        "nombre":"tysprip",
+        "duracion":8,
+        "difucultad": "intermedia"
+    },{
+        "nombre":"mongo",
+        "duracion":9,
+        "difucultad": "intermedia"
+    }
+    
+    
+    
+    
+
+]
+}
